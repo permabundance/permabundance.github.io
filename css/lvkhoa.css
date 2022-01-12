@@ -1,0 +1,24 @@
+
+.shaded-textbox {
+  background-color: #444444;
+  background-color: rgba(2,2,2,0.6);
+  border-color: #111111;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.wbg-link{
+  color: #3230bf;
+}
+
+.navbar-brand{
+  color: #FFFFFF;
+}
+
+
+section#contact {
+  background-color: #212529;
+  background-image: url("../img/footer-spring.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
